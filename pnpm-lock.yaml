@@ -256,8 +256,8 @@ importers:
         specifier: 5.1.5
         version: 5.1.5
       prisma-markdown:
-        specifier: 2.0.0
-        version: 2.0.0(@prisma/client@6.9.0(prisma@6.9.0(typescript@5.8.3))(typescript@5.8.3))(prisma@6.9.0(typescript@5.8.3))
+        specifier: 3.0.1
+        version: 3.0.1(@prisma/client@6.9.0(prisma@6.9.0(typescript@5.8.3))(typescript@5.8.3))(prisma@6.9.0(typescript@5.8.3))
       react:
         specifier: 19.1.0
         version: 19.1.0
@@ -7028,8 +7028,8 @@ packages:
     resolution: {integrity: sha512-OHyPkwgIhMf+z8fToj8D4xMX55RVok5ugDa7J2VdMukcNIaAewWhe3k7Jv2YflJZE+6cB6LMWfkub+OGcFG+wA==}
     hasBin: true
 
-  prisma-markdown@2.0.0:
-    resolution: {integrity: sha512-vI9J5Mp5fJdFq1PkvtcBi1QszY1nAx68Re/2HvKs7/N2CfVKLk+6czeMSwI2VLXeMMWR2EWF1USkGdy2gJMkQA==}
+  prisma-markdown@3.0.1:
+    resolution: {integrity: sha512-2ZgEfz1wFfORYWY0Hg/xiHnhT5tY20ql5TNU3l79U9A3is2X6RLjU7KlBcP4+rg5Bl/i9fHEQqkn3qY0m0Fh5w==}
     hasBin: true
     peerDependencies:
       '@prisma/client': '>= 6.0.0'
@@ -17244,7 +17244,7 @@ snapshots:
       '@prisma/generator-helper': 5.8.1
       '@prisma/internals': 5.8.1
 
-  prisma-markdown@2.0.0(@prisma/client@6.9.0(prisma@6.9.0(typescript@5.8.3))(typescript@5.8.3))(prisma@6.9.0(typescript@5.8.3)):
+  prisma-markdown@3.0.1(@prisma/client@6.9.0(prisma@6.9.0(typescript@5.8.3))(typescript@5.8.3))(prisma@6.9.0(typescript@5.8.3)):
     dependencies:
       '@prisma/client': 6.9.0(prisma@6.9.0(typescript@5.8.3))(typescript@5.8.3)
       '@prisma/generator-helper': 6.9.0
