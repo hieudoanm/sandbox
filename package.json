@@ -33,7 +33,7 @@
     "got": "14.4.7",
     "marked": "15.0.12",
     "nanoid": "5.1.5",
-    "postcss": "8.5.4",
+    "postcss": "8.5.5",
     "semver": "7.7.2",
     "send": "1.2.0",
     "serve-static": "2.2.0",
