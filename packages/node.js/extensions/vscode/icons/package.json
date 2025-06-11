@@ -25,7 +25,7 @@
   },
   "homepage": "https://github.com/hieudoanm/hieudoanm.github.io#readme",
   "engines": {
-    "node": "22.16.0",
+    "node": "24.2.0",
     "vscode": "1.100.3"
   },
   "scripts": {
