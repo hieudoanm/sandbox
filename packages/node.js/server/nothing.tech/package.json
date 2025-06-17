@@ -41,7 +41,7 @@
     "prisma:studio": "prisma studio"
   },
   "dependencies": {
-    "@distube/ytdl-core": "4.16.11",
+    "@distube/ytdl-core": "4.16.12",
     "@prisma/client": "6.9.0",
     "graphql": "16.11.0",
     "html-to-pdfmake": "2.5.26",
