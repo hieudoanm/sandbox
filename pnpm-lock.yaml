@@ -716,8 +716,8 @@ importers:
   packages/node.js/server/nothing.tech:
     dependencies:
       '@distube/ytdl-core':
-        specifier: 4.16.11
-        version: 4.16.11
+        specifier: 4.16.12
+        version: 4.16.12
       '@prisma/client':
         specifier: 6.9.0
         version: 6.9.0(prisma@6.9.0(typescript@5.8.3))(typescript@5.8.3)
@@ -2671,10 +2671,9 @@ packages:
     resolution: {integrity: sha512-4B4OijXeVNOPZlYA2oEwWOTkzyltLao+xbotHQeqN++Rv27Y6s818+n2Qkp8q+Fxhn0t/5lA5X1Mxktud8eayQ==}
     engines: {node: '>=14.17.0'}
 
-  '@distube/ytdl-core@4.16.11':
-    resolution: {integrity: sha512-yMQiicS5CuuTBsROb1iCRM09VZVL98EJ40LEtC7dMrgOWaHuJIwaL1w/ddC9DTNOUEV90T/1xYYLqM6Oc7q9kQ==}
+  '@distube/ytdl-core@4.16.12':
+    resolution: {integrity: sha512-/NR8Jur1Q4E2oD+DJta7uwWu7SkqdEkhwERt7f4iune70zg7ZlLLTOHs1+jgg3uD2jQjpdk7RGC16FqstG4RsA==}
     engines: {node: '>=20.18.1'}
-    deprecated: This version is deprecated, please upgrade to the latest version.
 
   '@docsearch/css@3.9.0':
     resolution: {integrity: sha512-cQbnVbq0rrBwNAKegIac/t6a8nWoUAn8frnkLFW6YARaRmAQr5/Eoe6Ln2fqkUCZ40KpdrKbpSAmgrkviOxuWA==}
@@ -18604,7 +18603,7 @@ snapshots:
 
   '@discoveryjs/json-ext@0.6.3': {}
 
-  '@distube/ytdl-core@4.16.11':
+  '@distube/ytdl-core@4.16.12':
     dependencies:
       http-cookie-agent: 7.0.1(tough-cookie@5.1.2)(undici@7.10.0)
       https-proxy-agent: 7.0.6
