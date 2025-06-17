@@ -515,8 +515,8 @@ importers:
   packages/node.js/frontend/documentation/astro:
     dependencies:
       '@astrojs/starlight':
-        specifier: 0.34.3
-        version: 0.34.3(astro@5.9.2(@azure/identity@4.10.0)(@types/node@22.15.31)(db0@0.3.2)(encoding@0.1.13)(idb-keyval@6.2.2)(ioredis@5.6.1)(jiti@2.4.2)(less@4.2.2)(lightningcss@1.30.1)(rollup@4.42.0)(sass@1.85.0)(terser@5.41.0)(typescript@5.8.3)(yaml@2.8.0))
+        specifier: 0.34.4
+        version: 0.34.4(astro@5.9.2(@azure/identity@4.10.0)(@types/node@22.15.31)(db0@0.3.2)(encoding@0.1.13)(idb-keyval@6.2.2)(ioredis@5.6.1)(jiti@2.4.2)(less@4.2.2)(lightningcss@1.30.1)(rollup@4.42.0)(sass@1.85.0)(terser@5.41.0)(typescript@5.8.3)(yaml@2.8.0))
       astro:
         specifier: 5.9.2
         version: 5.9.2(@azure/identity@4.10.0)(@types/node@22.15.31)(db0@0.3.2)(encoding@0.1.13)(idb-keyval@6.2.2)(ioredis@5.6.1)(jiti@2.4.2)(less@4.2.2)(lightningcss@1.30.1)(rollup@4.42.0)(sass@1.85.0)(terser@5.41.0)(typescript@5.8.3)(yaml@2.8.0)
@@ -1455,8 +1455,8 @@ packages:
   '@astrojs/sitemap@3.4.1':
     resolution: {integrity: sha512-VjZvr1e4FH6NHyyHXOiQgLiw94LnCVY4v06wN/D0gZKchTMkg71GrAHJz81/huafcmavtLkIv26HnpfDq6/h/Q==}
 
-  '@astrojs/starlight@0.34.3':
-    resolution: {integrity: sha512-MAuD3NF+E+QXJJuVKofoR6xcPTP4BJmYWeOBd03udVdubNGVnPnSWVZAi+ZtnTofES4+mJdp8BNGf+ubUxkiiA==}
+  '@astrojs/starlight@0.34.4':
+    resolution: {integrity: sha512-NfQ6S2OaDG8aaiE+evVxSMpgqMkXPLa/yCpzG340EX2pRzFxPeTSvpei3Uz9KouevXRCctjHSItKjuZP+2syrQ==}
     peerDependencies:
       astro: ^5.5.0
 
@@ -2674,6 +2674,7 @@ packages:
   '@distube/ytdl-core@4.16.11':
     resolution: {integrity: sha512-yMQiicS5CuuTBsROb1iCRM09VZVL98EJ40LEtC7dMrgOWaHuJIwaL1w/ddC9DTNOUEV90T/1xYYLqM6Oc7q9kQ==}
     engines: {node: '>=20.18.1'}
+    deprecated: This version is deprecated, please upgrade to the latest version.
 
   '@docsearch/css@3.9.0':
     resolution: {integrity: sha512-cQbnVbq0rrBwNAKegIac/t6a8nWoUAn8frnkLFW6YARaRmAQr5/Eoe6Ln2fqkUCZ40KpdrKbpSAmgrkviOxuWA==}
@@ -16796,7 +16797,7 @@ snapshots:
       stream-replace-string: 2.0.0
       zod: 3.25.56
 
-  '@astrojs/starlight@0.34.3(astro@5.9.2(@azure/identity@4.10.0)(@types/node@22.15.31)(db0@0.3.2)(encoding@0.1.13)(idb-keyval@6.2.2)(ioredis@5.6.1)(jiti@2.4.2)(less@4.2.2)(lightningcss@1.30.1)(rollup@4.42.0)(sass@1.85.0)(terser@5.41.0)(typescript@5.8.3)(yaml@2.8.0))':
+  '@astrojs/starlight@0.34.4(astro@5.9.2(@azure/identity@4.10.0)(@types/node@22.15.31)(db0@0.3.2)(encoding@0.1.13)(idb-keyval@6.2.2)(ioredis@5.6.1)(jiti@2.4.2)(less@4.2.2)(lightningcss@1.30.1)(rollup@4.42.0)(sass@1.85.0)(terser@5.41.0)(typescript@5.8.3)(yaml@2.8.0))':
     dependencies:
       '@astrojs/markdown-remark': 6.3.2
       '@astrojs/mdx': 4.3.0(astro@5.9.2(@azure/identity@4.10.0)(@types/node@22.15.31)(db0@0.3.2)(encoding@0.1.13)(idb-keyval@6.2.2)(ioredis@5.6.1)(jiti@2.4.2)(less@4.2.2)(lightningcss@1.30.1)(rollup@4.42.0)(sass@1.85.0)(terser@5.41.0)(typescript@5.8.3)(yaml@2.8.0))
