@@ -361,8 +361,8 @@ importers:
         specifier: 1.1.4
         version: 1.1.4(@types/node@22.15.32)(jiti@2.4.2)(less@4.2.2)(lightningcss@1.30.1)(sass@1.85.0)(solid-js@1.9.7)(terser@5.41.0)(vinxi@0.5.7(@azure/identity@4.10.0)(@types/node@22.15.32)(db0@0.3.2)(encoding@0.1.13)(idb-keyval@6.2.2)(ioredis@5.6.1)(jiti@2.4.2)(less@4.2.2)(lightningcss@1.30.1)(sass@1.85.0)(terser@5.41.0)(xml2js@0.6.2)(yaml@2.8.0))(vite@6.3.5(@types/node@22.15.32)(jiti@2.4.2)(less@4.2.2)(lightningcss@1.30.1)(sass@1.85.0)(terser@5.41.0)(yaml@2.8.0))(yaml@2.8.0)
       '@tanstack/solid-query':
-        specifier: 5.80.7
-        version: 5.80.7(solid-js@1.9.7)
+        specifier: 5.80.10
+        version: 5.80.10(solid-js@1.9.7)
       '@tanstack/solid-table':
         specifier: 8.21.3
         version: 8.21.3(solid-js@1.9.7)
@@ -5237,8 +5237,8 @@ packages:
     resolution: {integrity: sha512-VQKnPQ1ftgO6YoMaHMSTYvpmi3pOunD/x9SXTAkhtIjNaTSHY24XfbykHbF0MUi6o+gOAkAt60c3ckT2xjgcgA==}
     engines: {node: '>=12'}
 
-  '@tanstack/query-core@5.80.7':
-    resolution: {integrity: sha512-s09l5zeUKC8q7DCCCIkVSns8zZrK4ZDT6ryEjxNBFi68G4z2EBobBS7rdOY3r6W1WbUDpc1fe5oY+YO/+2UVUg==}
+  '@tanstack/query-core@5.80.10':
+    resolution: {integrity: sha512-mUNQOtzxkjL6jLbyChZoSBP6A5gQDVRUiPvW+/zw/9ftOAz+H754zCj3D8PwnzPKyHzGkQ9JbH48ukhym9LK1Q==}
 
   '@tanstack/router-utils@1.120.17':
     resolution: {integrity: sha512-emgT4FthaGtTRaRg9bsr0uaq3EHdl/flS4bKLuFaetiFTt8wk8EVU2a7EZlkaaAfLLDPaiGbP1S2DDaZQ7ci+Q==}
@@ -5248,8 +5248,8 @@ packages:
     resolution: {integrity: sha512-KAje/boeSCSUVLKRxF/kXwE433LYoSuAHON/yojoK0jk/WO/Ie3TYS2tY0+532nqymGnGJ2bRKMMg6Gp58iaXg==}
     engines: {node: '>=12'}
 
-  '@tanstack/solid-query@5.80.7':
-    resolution: {integrity: sha512-U7Zux6kVRZjjNpCwPs+66bsyFtKZKeuRN8CNffdK88ehmc2JhoHPFyQrhBilldyGe2AOL09a27zXc/WQkNS+kA==}
+  '@tanstack/solid-query@5.80.10':
+    resolution: {integrity: sha512-J68kpBJ7w5kcYY0zHen6z7UWwt3Fu+awqZFmhk7TajzrXWyt08ru6+k5ZK7YwPvtwwB58c1fAfDaL/jjgdCGGA==}
     peerDependencies:
       solid-js: ^1.6.0
 
@@ -21592,7 +21592,7 @@ snapshots:
       - tsx
       - yaml
 
-  '@tanstack/query-core@5.80.7': {}
+  '@tanstack/query-core@5.80.10': {}
 
   '@tanstack/router-utils@1.120.17':
     dependencies:
@@ -21629,9 +21629,9 @@ snapshots:
       - tsx
       - yaml
 
-  '@tanstack/solid-query@5.80.7(solid-js@1.9.7)':
+  '@tanstack/solid-query@5.80.10(solid-js@1.9.7)':
     dependencies:
-      '@tanstack/query-core': 5.80.7
+      '@tanstack/query-core': 5.80.10
       solid-js: 1.9.7
 
   '@tanstack/solid-table@8.21.3(solid-js@1.9.7)':
