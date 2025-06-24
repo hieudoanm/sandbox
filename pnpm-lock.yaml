@@ -32,11 +32,11 @@ importers:
         specifier: 9.1.7
         version: 9.1.7
       prettier:
-        specifier: 3.5.3
-        version: 3.5.3
+        specifier: 3.6.0
+        version: 3.6.0
       prettier-plugin-tailwindcss:
         specifier: 0.6.13
-        version: 0.6.13(prettier-plugin-svelte@3.4.0(prettier@3.5.3)(svelte@5.34.7))(prettier@3.5.3)
+        version: 0.6.13(prettier-plugin-svelte@3.4.0(prettier@3.6.0)(svelte@5.34.7))(prettier@3.6.0)
       rimraf:
         specifier: 6.0.1
         version: 6.0.1
@@ -71,7 +71,7 @@ importers:
         version: 22.15.32
       '@webpack-cli/generators':
         specifier: 3.0.7
-        version: 3.0.7(encoding@0.1.13)(mem-fs@2.3.0)(prettier@3.5.3)(webpack-cli@6.0.1)(webpack@5.99.9)
+        version: 3.0.7(encoding@0.1.13)(mem-fs@2.3.0)(prettier@3.6.0)(webpack-cli@6.0.1)(webpack@5.99.9)
       copy-webpack-plugin:
         specifier: 13.0.0
         version: 13.0.0(webpack@5.99.9)
@@ -82,8 +82,8 @@ importers:
         specifier: 16.2.0
         version: 16.2.0
       prettier:
-        specifier: 3.5.3
-        version: 3.5.3
+        specifier: 3.6.0
+        version: 3.6.0
       rimraf:
         specifier: 6.0.1
         version: 6.0.1
@@ -122,7 +122,7 @@ importers:
         version: 22.15.32
       '@webpack-cli/generators':
         specifier: 3.0.7
-        version: 3.0.7(encoding@0.1.13)(mem-fs@2.3.0)(prettier@3.5.3)(webpack-cli@6.0.1)(webpack@5.99.9)
+        version: 3.0.7(encoding@0.1.13)(mem-fs@2.3.0)(prettier@3.6.0)(webpack-cli@6.0.1)(webpack@5.99.9)
       copy-webpack-plugin:
         specifier: 13.0.0
         version: 13.0.0(webpack@5.99.9)
@@ -133,8 +133,8 @@ importers:
         specifier: 16.2.0
         version: 16.2.0
       prettier:
-        specifier: 3.5.3
-        version: 3.5.3
+        specifier: 3.6.0
+        version: 3.6.0
       ts-loader:
         specifier: 9.5.2
         version: 9.5.2(typescript@5.8.3)(webpack@5.99.9)
@@ -173,7 +173,7 @@ importers:
         version: 22.15.32
       '@webpack-cli/generators':
         specifier: 3.0.7
-        version: 3.0.7(encoding@0.1.13)(mem-fs@2.3.0)(prettier@3.5.3)(webpack-cli@6.0.1)(webpack@5.99.9)
+        version: 3.0.7(encoding@0.1.13)(mem-fs@2.3.0)(prettier@3.6.0)(webpack-cli@6.0.1)(webpack@5.99.9)
       copy-webpack-plugin:
         specifier: 13.0.0
         version: 13.0.0(webpack@5.99.9)
@@ -184,8 +184,8 @@ importers:
         specifier: 16.2.0
         version: 16.2.0
       prettier:
-        specifier: 3.5.3
-        version: 3.5.3
+        specifier: 3.6.0
+        version: 3.6.0
       rimraf:
         specifier: 6.0.1
         version: 6.0.1
@@ -217,8 +217,8 @@ importers:
         specifier: 3.5.0
         version: 3.5.0
       prettier:
-        specifier: 3.5.3
-        version: 3.5.3
+        specifier: 3.6.0
+        version: 3.6.0
 
   packages/node.js/extensions/vscode/themes:
     devDependencies:
@@ -311,8 +311,8 @@ importers:
         specifier: 2.0.1
         version: 2.0.1
       prettier:
-        specifier: 3.5.3
-        version: 3.5.3
+        specifier: 3.6.0
+        version: 3.6.0
       rimraf:
         specifier: 6.0.1
         version: 6.0.1
@@ -362,14 +362,14 @@ importers:
         specifier: 16.2.0
         version: 16.2.0
       prettier:
-        specifier: 3.5.3
-        version: 3.5.3
+        specifier: 3.6.0
+        version: 3.6.0
       prettier-plugin-svelte:
         specifier: 3.4.0
-        version: 3.4.0(prettier@3.5.3)(svelte@5.34.7)
+        version: 3.4.0(prettier@3.6.0)(svelte@5.34.7)
       prettier-plugin-tailwindcss:
         specifier: 0.6.13
-        version: 0.6.13(prettier-plugin-svelte@3.4.0(prettier@3.5.3)(svelte@5.34.7))(prettier@3.5.3)
+        version: 0.6.13(prettier-plugin-svelte@3.4.0(prettier@3.6.0)(svelte@5.34.7))(prettier@3.6.0)
       svelte:
         specifier: 5.34.7
         version: 5.34.7
@@ -411,8 +411,8 @@ importers:
         specifier: 9.29.0
         version: 9.29.0(jiti@2.4.2)
       prettier:
-        specifier: 3.5.3
-        version: 3.5.3
+        specifier: 3.6.0
+        version: 3.6.0
       ts-node:
         specifier: 10.9.2
         version: 10.9.2(@types/node@22.15.32)(typescript@5.8.3)
@@ -460,8 +460,8 @@ importers:
         specifier: 3.8.1
         version: 3.8.1(acorn@8.15.0)(react-dom@19.1.0(react@19.1.0))(react@19.1.0)
       prettier:
-        specifier: 3.5.3
-        version: 3.5.3
+        specifier: 3.6.0
+        version: 3.6.0
       typescript:
         specifier: 5.8.3
         version: 5.8.3
@@ -487,8 +487,8 @@ importers:
         specifier: 16.2.0
         version: 16.2.0
       prettier:
-        specifier: 3.5.3
-        version: 3.5.3
+        specifier: 3.6.0
+        version: 3.6.0
       typescript-eslint:
         specifier: 8.35.0
         version: 8.35.0(eslint@9.29.0(jiti@2.4.2))(typescript@5.8.3)
@@ -543,7 +543,7 @@ importers:
         version: 22.15.32
       '@webpack-cli/generators':
         specifier: 3.0.7
-        version: 3.0.7(encoding@0.1.13)(mem-fs@2.3.0)(prettier@3.5.3)(webpack-cli@6.0.1)(webpack@5.99.9)
+        version: 3.0.7(encoding@0.1.13)(mem-fs@2.3.0)(prettier@3.6.0)(webpack-cli@6.0.1)(webpack@5.99.9)
       concurrently:
         specifier: 9.2.0
         version: 9.2.0
@@ -563,8 +563,8 @@ importers:
         specifier: 3.1.10
         version: 3.1.10
       prettier:
-        specifier: 3.5.3
-        version: 3.5.3
+        specifier: 3.6.0
+        version: 3.6.0
       rimraf:
         specifier: 6.0.1
         version: 6.0.1
@@ -655,7 +655,7 @@ importers:
         version: 22.15.32
       '@webpack-cli/generators':
         specifier: 3.0.7
-        version: 3.0.7(encoding@0.1.13)(mem-fs@2.3.0)(prettier@3.5.3)(webpack-cli@6.0.1)(webpack@5.99.9)
+        version: 3.0.7(encoding@0.1.13)(mem-fs@2.3.0)(prettier@3.6.0)(webpack-cli@6.0.1)(webpack@5.99.9)
       eslint:
         specifier: 9.29.0
         version: 9.29.0(jiti@2.4.2)
@@ -666,11 +666,11 @@ importers:
         specifier: 3.1.10
         version: 3.1.10
       prettier:
-        specifier: 3.5.3
-        version: 3.5.3
+        specifier: 3.6.0
+        version: 3.6.0
       prettier-plugin-tailwindcss:
         specifier: 0.6.13
-        version: 0.6.13(prettier-plugin-svelte@3.4.0(prettier@3.5.3)(svelte@5.34.7))(prettier@3.5.3)
+        version: 0.6.13(prettier-plugin-svelte@3.4.0(prettier@3.6.0)(svelte@5.34.7))(prettier@3.6.0)
       prisma:
         specifier: 6.10.1
         version: 6.10.1(typescript@5.8.3)
@@ -721,8 +721,8 @@ importers:
         specifier: 16.2.0
         version: 16.2.0
       prettier:
-        specifier: 3.5.3
-        version: 3.5.3
+        specifier: 3.6.0
+        version: 3.6.0
       prisma:
         specifier: 6.10.1
         version: 6.10.1(typescript@5.8.3)
@@ -755,8 +755,8 @@ importers:
         version: 6.10.1(prisma@6.10.1(typescript@5.8.3))(typescript@5.8.3)
     devDependencies:
       prettier:
-        specifier: 3.5.3
-        version: 3.5.3
+        specifier: 3.6.0
+        version: 3.6.0
       prisma:
         specifier: 6.10.1
         version: 6.10.1(typescript@5.8.3)
@@ -783,8 +783,8 @@ importers:
         specifier: 16.2.0
         version: 16.2.0
       prettier:
-        specifier: 3.5.3
-        version: 3.5.3
+        specifier: 3.6.0
+        version: 3.6.0
       prisma:
         specifier: 6.10.1
         version: 6.10.1(typescript@5.8.3)
@@ -11525,8 +11525,8 @@ packages:
       prettier-plugin-svelte:
         optional: true
 
-  prettier@3.5.3:
-    resolution: {integrity: sha512-QQtaxnoDJeAkDvDKWCLiwIXkTgRhwYDEQCghU9Z6q03iyek/rxRh/2lC3HB7P8sWT2xC/y5JDctPLBIGzHKbhw==}
+  prettier@3.6.0:
+    resolution: {integrity: sha512-ujSB9uXHJKzM/2GBuE0hBOUgC77CN3Bnpqa+g80bkv3T3A93wL/xlzDATHhnhkzifz/UE2SNOvmbTz5hSkDlHw==}
     engines: {node: '>=14'}
     hasBin: true
 
@@ -20879,14 +20879,14 @@ snapshots:
       webpack: 5.99.9(webpack-cli@6.0.1)
       webpack-cli: 6.0.1(webpack@5.99.9)
 
-  '@webpack-cli/generators@3.0.7(encoding@0.1.13)(mem-fs@2.3.0)(prettier@3.5.3)(webpack-cli@6.0.1)(webpack@5.99.9)':
+  '@webpack-cli/generators@3.0.7(encoding@0.1.13)(mem-fs@2.3.0)(prettier@3.6.0)(webpack-cli@6.0.1)(webpack@5.99.9)':
     dependencies:
       webpack: 5.99.9(webpack-cli@6.0.1)
       webpack-cli: 6.0.1(webpack@5.99.9)
       yeoman-environment: 3.19.3
       yeoman-generator: 5.10.0(encoding@0.1.13)(mem-fs@2.3.0)(yeoman-environment@3.19.3)
     optionalDependencies:
-      prettier: 3.5.3
+      prettier: 3.6.0
     transitivePeerDependencies:
       - bluebird
       - encoding
@@ -28410,18 +28410,18 @@ snapshots:
 
   prelude-ls@1.2.1: {}
 
-  prettier-plugin-svelte@3.4.0(prettier@3.5.3)(svelte@5.34.7):
+  prettier-plugin-svelte@3.4.0(prettier@3.6.0)(svelte@5.34.7):
     dependencies:
-      prettier: 3.5.3
+      prettier: 3.6.0
       svelte: 5.34.7
 
-  prettier-plugin-tailwindcss@0.6.13(prettier-plugin-svelte@3.4.0(prettier@3.5.3)(svelte@5.34.7))(prettier@3.5.3):
+  prettier-plugin-tailwindcss@0.6.13(prettier-plugin-svelte@3.4.0(prettier@3.6.0)(svelte@5.34.7))(prettier@3.6.0):
     dependencies:
-      prettier: 3.5.3
+      prettier: 3.6.0
     optionalDependencies:
-      prettier-plugin-svelte: 3.4.0(prettier@3.5.3)(svelte@5.34.7)
+      prettier-plugin-svelte: 3.4.0(prettier@3.6.0)(svelte@5.34.7)
 
-  prettier@3.5.3: {}
+  prettier@3.6.0: {}
 
   pretty-bytes@5.6.0: {}
 
