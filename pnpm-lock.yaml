@@ -247,8 +247,8 @@ importers:
         specifier: 8.21.3
         version: 8.21.3(solid-js@1.9.7)
       '@tanstack/solid-virtual':
-        specifier: 3.13.11
-        version: 3.13.11(solid-js@1.9.7)
+        specifier: 3.13.12
+        version: 3.13.12(solid-js@1.9.7)
       chess.js:
         specifier: 1.4.0
         version: 1.4.0
@@ -4467,8 +4467,8 @@ packages:
     peerDependencies:
       solid-js: '>=1.3'
 
-  '@tanstack/solid-virtual@3.13.11':
-    resolution: {integrity: sha512-DkqcOk5bTog/epCLGlzkUA4Pl0+wXnX0jmIEDQcANj15+xfoE63Dt1MV0VUjPUR4qr8IkgTPMCznoivl3yqWwA==}
+  '@tanstack/solid-virtual@3.13.12':
+    resolution: {integrity: sha512-0dS8GkBTmbuM9cUR6Jni0a45eJbd32CAEbZj8HrZMWIj3lu974NpGz5ywcomOGJ9GdeHuDaRzlwtonBbKV1ihQ==}
     peerDependencies:
       solid-js: ^1.3.0
 
@@ -4476,8 +4476,8 @@ packages:
     resolution: {integrity: sha512-ldZXEhOBb8Is7xLs01fR3YEc3DERiz5silj8tnGkFZytt1abEvl/GhUmCE0PMLaMPTa3Jk4HbKmRlHmu+gCftg==}
     engines: {node: '>=12'}
 
-  '@tanstack/virtual-core@3.13.11':
-    resolution: {integrity: sha512-ORL6UyuZJ0D9X33LDR4TcgcM+K2YiS2j4xbvH1vnhhObwR1Z4dKwPTL/c0kj2Yeb4Yp2lBv1wpyVaqlohk8zpg==}
+  '@tanstack/virtual-core@3.13.12':
+    resolution: {integrity: sha512-1YBOJfRHV4sXUmWsFSf5rQor4Ss82G8dQWLRbnk3GA4jeP8hQt1hxXh0tmflpC0dz3VgEv/1+qwPyLeWkQuPFA==}
 
   '@textlint/ast-node-types@14.8.4':
     resolution: {integrity: sha512-+fI7miec/r9VeniFV9ppL4jRCmHNsTxieulTUf/4tvGII3db5hGriKHC4p/diq1SkQ9Sgs7kg6UyydxZtpTz1Q==}
@@ -19541,14 +19541,14 @@ snapshots:
       '@tanstack/table-core': 8.21.3
       solid-js: 1.9.7
 
-  '@tanstack/solid-virtual@3.13.11(solid-js@1.9.7)':
+  '@tanstack/solid-virtual@3.13.12(solid-js@1.9.7)':
     dependencies:
-      '@tanstack/virtual-core': 3.13.11
+      '@tanstack/virtual-core': 3.13.12
       solid-js: 1.9.7
 
   '@tanstack/table-core@8.21.3': {}
 
-  '@tanstack/virtual-core@3.13.11': {}
+  '@tanstack/virtual-core@3.13.12': {}
 
   '@textlint/ast-node-types@14.8.4': {}
 
