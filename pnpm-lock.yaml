@@ -124,8 +124,8 @@ importers:
         specifier: 0.15.3
         version: 0.15.3(solid-js@1.9.7)
       '@solidjs/start':
-        specifier: 1.1.5
-        version: 1.1.5(solid-js@1.9.7)(vinxi@0.5.7(@azure/identity@4.10.1)(@types/node@24.0.6)(db0@0.3.2)(encoding@0.1.13)(idb-keyval@6.2.2)(ioredis@5.6.1)(jiti@2.4.2)(less@4.2.2)(lightningcss@1.30.1)(sass@1.85.0)(terser@5.43.1)(xml2js@0.6.2)(yaml@2.8.0))(vite@7.0.0(@types/node@24.0.6)(jiti@2.4.2)(less@4.2.2)(lightningcss@1.30.1)(sass@1.85.0)(terser@5.43.1)(yaml@2.8.0))
+        specifier: 1.1.7
+        version: 1.1.7(solid-js@1.9.7)(vinxi@0.5.7(@azure/identity@4.10.1)(@types/node@24.0.6)(db0@0.3.2)(encoding@0.1.13)(idb-keyval@6.2.2)(ioredis@5.6.1)(jiti@2.4.2)(less@4.2.2)(lightningcss@1.30.1)(sass@1.85.0)(terser@5.43.1)(xml2js@0.6.2)(yaml@2.8.0))(vite@7.0.0(@types/node@24.0.6)(jiti@2.4.2)(less@4.2.2)(lightningcss@1.30.1)(sass@1.85.0)(terser@5.43.1)(yaml@2.8.0))
       '@tanstack/solid-query':
         specifier: 5.81.5
         version: 5.81.5(solid-js@1.9.7)
@@ -4054,8 +4054,8 @@ packages:
     peerDependencies:
       solid-js: ^1.8.6
 
-  '@solidjs/start@1.1.5':
-    resolution: {integrity: sha512-yQknZf4mN4ZFqG6HkDrDDuCg7NnphkQ0jevxXQdfJAffvMixwjTsp4zlFF95t+GIKANYmuGr+1vntGqkGu7tWw==}
+  '@solidjs/start@1.1.7':
+    resolution: {integrity: sha512-30nUFzCpCVH7ORtHlO4ZE+VLG3g3EP+x+ceLLJBFRXIVuFQ1p203xZvVCXWqUPydtK78O5w3nIkWA/tLtF0Ybg==}
     peerDependencies:
       vinxi: ^0.5.7
 
@@ -18748,7 +18748,7 @@ snapshots:
     dependencies:
       solid-js: 1.9.7
 
-  '@solidjs/start@1.1.5(solid-js@1.9.7)(vinxi@0.5.7(@azure/identity@4.10.1)(@types/node@24.0.6)(db0@0.3.2)(encoding@0.1.13)(idb-keyval@6.2.2)(ioredis@5.6.1)(jiti@2.4.2)(less@4.2.2)(lightningcss@1.30.1)(sass@1.85.0)(terser@5.43.1)(xml2js@0.6.2)(yaml@2.8.0))(vite@7.0.0(@types/node@24.0.6)(jiti@2.4.2)(less@4.2.2)(lightningcss@1.30.1)(sass@1.85.0)(terser@5.43.1)(yaml@2.8.0))':
+  '@solidjs/start@1.1.7(solid-js@1.9.7)(vinxi@0.5.7(@azure/identity@4.10.1)(@types/node@24.0.6)(db0@0.3.2)(encoding@0.1.13)(idb-keyval@6.2.2)(ioredis@5.6.1)(jiti@2.4.2)(less@4.2.2)(lightningcss@1.30.1)(sass@1.85.0)(terser@5.43.1)(xml2js@0.6.2)(yaml@2.8.0))(vite@7.0.0(@types/node@24.0.6)(jiti@2.4.2)(less@4.2.2)(lightningcss@1.30.1)(sass@1.85.0)(terser@5.43.1)(yaml@2.8.0))':
     dependencies:
       '@tanstack/server-functions-plugin': 1.121.21(vite@7.0.0(@types/node@24.0.6)(jiti@2.4.2)(less@4.2.2)(lightningcss@1.30.1)(sass@1.85.0)(terser@5.43.1)(yaml@2.8.0))
       '@vinxi/plugin-directives': 0.5.1(vinxi@0.5.7(@azure/identity@4.10.1)(@types/node@24.0.6)(db0@0.3.2)(encoding@0.1.13)(idb-keyval@6.2.2)(ioredis@5.6.1)(jiti@2.4.2)(less@4.2.2)(lightningcss@1.30.1)(sass@1.85.0)(terser@5.43.1)(xml2js@0.6.2)(yaml@2.8.0))
